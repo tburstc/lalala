@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 
 public class MyAdvertPage extends Page {
-
+    //edit
     //*********Constructor*********
     public MyAdvertPage (WebDriver driver){
         super(driver);
