@@ -1,4 +1,4 @@
 package example.pages;
 
-public class test {
+public class test {//---------------
 }
