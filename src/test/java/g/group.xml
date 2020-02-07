@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <suite name = "My current suite">
+    <test name = "Practice grouping">
+        <groups>
+            <run>
+                <include name="Scooter"/>
+            </run>
+        </groups>>
+          <classes>
+              <class name = "g.Group"/>
+          </classes>
+      </test>
+</suite>

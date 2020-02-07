@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "General Suite">
+    <parameter name="p1" value="First parameter"/>
+    <parameter name="p2" value="Second parameter"/>
+    <test name = "AllTest">
+        <classes>
+            <class name = "d.DataProviderObj"/>
+            <class name = "g.Group"/>
+            <class name = "a.ParamFromXML"/>
+        </classes>
+    </test>
+</suite>
